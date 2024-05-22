@@ -9,6 +9,14 @@ Für diese Übung werden drei **Geräte** definiert, die du verwenden kannst:
 
 Die Website soll von dir **Mobile First** aufgebaut werden. Das bedeutet, dass das Grunddesign von einem mobilen Endgerät ausgeht und die Media Queries für die grösseren Geräte verwendet werden.
 
+## Starten
+
+Lade das Projekt auf deinen Ordner und installiere das SASS Package, das sich im package.json befindet, mit folgendem Befehl:
+
+```bash
+npm install
+```
+
 ## Übung
 
 ### SCSS
