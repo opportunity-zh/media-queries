@@ -22,8 +22,7 @@ npm install
 ### SCSS
 
 1. Lese folgenden [Artikel](https://matthewelsom.com/blog/simple-scss-playbook.html) und erstelle passende Partials
-2. Lese diesen [Artikel](https://sass-lang.com/documentation/at-rules/import/) um das richtige Import Statement zu verwenden
-3. Verwende CSS Custom Properties oder SCSS Variablen für die Farben
+2. Verwende CSS Custom Properties oder SCSS Variablen für die Farben
 
 ### Media Queries
 
