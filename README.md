@@ -21,25 +21,28 @@ npm install
 
 ### SCSS
 
-1. Lese folgenden Artikel und passe die Ordnerstruktur an
-2. Verwende CSS Custom Properties oder SCSS Variablen für die Farben
+1. Lese folgenden [Artikel](https://matthewelsom.com/blog/simple-scss-playbook.html) und erstelle passende Partials
+2. Lese diesen [Artikel](https://sass-lang.com/documentation/at-rules/import/) um das richtige Import Statement zu verwenden
+3. Verwende CSS Custom Properties oder SCSS Variablen für die Farben
 
 ### Media Queries
 
 #### Mobile
 
-- [ ] die Navigationselemente sollen untereinander platziert sein
-- [ ] der Hintergrund der Navigationselemente soll weiss sein
+- [ ] die Navigationselemente sollen ausgeblendet sein
 - [ ] der Footer soll die gleiche Farbe haben, wie der Header
 - [ ] die Farbe der Sidebar soll dieselbe Farbe haben wie der Main Tag
-- [ ] Sidebar und Main Tag sollen untereinander
+- [ ] Sidebar und Main Tag sollen untereinander sein
 
 #### Tablet
 
+- [ ] die Navigationselemente sollen untereinander platziert sein
+- [ ] der Hintergrund der Navigationselemente soll weiss sein
 - [ ] Sidebar und Main Tag sollen nebeneinander
-- [ ] der Hintergrund der Navigationselemente soll transparent sein
 
 #### Desktop
 
 - [ ] Die Navigationselemente sollen nebeneinander stehen
+- [ ] der Hintergrund der Navigationselemente soll transparent sein
 - [ ] Die Karten im main Tag sollen nebeneinander platziert werden
+- [ ] der Footer soll die Farbe #FFDA78 erhalten

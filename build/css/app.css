@@ -12,17 +12,6 @@ header {
   background-color: #003285;
 }
 
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-aside {
-  min-height: 20rem;
-  background-color: #2A629A;
-}
-
 main {
   min-height: 40rem;
   background-color: #FF7F3E;
@@ -38,6 +27,17 @@ main {
   background-color: #fff;
   margin-bottom: 1rem;
   min-height: 4rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+aside {
+  min-height: 20rem;
+  background-color: #2A629A;
 }
 
 footer {
